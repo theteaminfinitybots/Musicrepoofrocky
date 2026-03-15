@@ -9,7 +9,7 @@ from PIL import Image, ImageDraw, ImageEnhance, ImageOps, ImageFilter, ImageFont
 from unidecode import unidecode
 from youtubesearchpython.__future__ import VideosSearch
 
-from Spy import app
+from AloneMusic import app
 from config import YOUTUBE_IMG_URL
 
 
